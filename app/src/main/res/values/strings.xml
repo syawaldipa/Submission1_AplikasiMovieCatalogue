@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Movie Catalogue by Ardi</string>
+    <string name="nama_film">Nama Film</string>
+    <string name="genre">Genre</string>
+    <string name="tanggalRilis">Tanggal Rilis</string>
+    <string name="Deskripsifilm">Deskripsi Film</string>
+    <string name="Sinopsis">Sinopsis :</string>
+</resources>
